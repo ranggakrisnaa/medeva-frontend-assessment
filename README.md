@@ -128,7 +128,6 @@ frontend/
 - Status toggle (Active/Inactive)
 - Role-based access:
   - ADMIN: Full access (create, read, update, delete)
-  - MANAGER: Read, create, update
   - USER: Read only
 
 ## Component Architecture
